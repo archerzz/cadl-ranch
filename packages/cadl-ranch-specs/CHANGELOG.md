@@ -1,5 +1,17 @@
 # @azure-tools/cadl-ranch-specs
 
+## 0.34.0
+
+### Minor Changes
+
+- 2fb006d: Add typespec-azure-resource-manager dependency to cadl-ranch-specs.
+
+### Patch Changes
+
+- fa9490e: Remove fixed from enum.
+- 4026382: Add usage test case for model used in read-only property
+- 83c129b: Add nullable list of int/string test cases for type/property/nullable
+
 ## 0.33.4
 
 ### Patch Changes
