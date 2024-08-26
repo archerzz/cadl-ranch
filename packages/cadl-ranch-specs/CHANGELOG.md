@@ -1,5 +1,18 @@
 # @azure-tools/cadl-ranch-specs
 
+## 0.37.0
+
+### Minor Changes
+
+- d0c8551: Fix some minor issues in the namespace of azure/client-generate-core/flatten-property.
+
+### Patch Changes
+
+- e9cf998: Add ResourceCollectionAction operation and mockapi in azure/core/basic.
+- Updated dependencies [039ab07]
+  - @azure-tools/cadl-ranch-expect@0.15.2
+  - @azure-tools/cadl-ranch@0.14.4
+
 ## 0.36.1
 
 ### Patch Changes
